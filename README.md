@@ -7,7 +7,7 @@ We started with creating our search boxes in the index.html file to help set our
 
 ![Code1](images_2/filters_2.png)
 
-Next we wrote a code in our app.js file to filter through our data using changeElement and if loops to return specific resutls that the user wants to see. By adding this code we can now use our search function become alive. 
+Next we wrote a code in our app.js file to filter through our data using changeElement and If loops to return specific resutls that the user wants to see. We also labeled each search box so that the user has more options on how they want to perform their search. 
 
 ![Code1](images_2/Filter_S.png)
 
@@ -17,7 +17,7 @@ As we start to add more information to our search filters our code starts to wor
 ![Code1](images_2/Filter_ma.png)
 
 # Summary
-One of the biggest drawbacks i see here is we have provided the user with many filters but not enough data. We provided sightings based on informaiton that was collected in one year. The amount of of information collected on this webiste is just not enough to keep the reader engaged. 
+One of the biggest drawbacks i see here is we have provided the user with many filters but not enough data. We provided UFO sightings based on informaiton that was collected in one year. The amount of of information collected on this webiste is just not enough to keep the reader engaged. 
 
 One of the things that always make a website look really good is more images. Not only does this help the website look more profesional it helps the story and the vision of the website come to life. By adding more imgaes it grabs the readers attention and get them more involved into what they are reading. 
 
