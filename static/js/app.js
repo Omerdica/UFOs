@@ -65,7 +65,7 @@ function updateFilters() {
   }
   
     if (filters["city"]) {
-      filtersData = filtersData.filter(dataRow => dataRow.city == filters["City"]);
+      filtersData = filtersData.filter(dataRow => dataRow.city == filters["city"]);
 
   }
     if (filters["state"]) {
